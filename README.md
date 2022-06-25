@@ -1,10 +1,6 @@
 # js-visitor-filter
 
-> Country
-> Isp
-> Mobile
-> Language
-> Referrer
+> Country, Isp, Mobile, Language, Referrer
 
 ## Setup
 
